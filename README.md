@@ -3,3 +3,5 @@
 repositóriode exercícios da trybe, escola de tecnologia.
 
 pratique bastante.
+
+teste
