@@ -3,36 +3,49 @@
     padding: 0;
 }
 
+
+/* Header */
+
+
 header {
     background-color: black;
     display: flex;
-    justify-content: space-between;
-    padding: 10px;
+    padding: 15px;
 }
 
-.ctn-spotify-logo {
-    width: 100px;
+header div{
+    background-color: black;
     display: flex;
-    align-items: center;
-    
+    justify-content: space-between;
+    width: 80%;
+    margin: auto;
 }
 
 .spotify-logo {
-    width: 100%;
-    
-}
-
-section {
-    background-color: rgb(29, 117, 222);
+    width: 150px;
 }
 
 .menu {
     color: white;
     display: flex;
-    padding: 15px;
+    align-items: center;
+    list-style: none;
 }
 
-.list-menu {
-    list-style-type: none;
-    margin: 0 10px;
+.menu li {
+    margin-left: 20px;
 }
+
+
+
+
+
+section {
+    background-color: rgb(29, 117, 222);
+}
+
+
+
+
+
+/* Section */
