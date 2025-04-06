@@ -162,7 +162,7 @@ header div{
     display: flex;
     height: 700px;
     max-width: 900px;
-    margin: auto;
+    margin: auto auto 100px auto;
 }
 
 .plan-style{
