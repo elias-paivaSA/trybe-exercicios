@@ -1,9 +1,3 @@
-# meu repositório de exercicios da trybe
+# Meu repositório de exercicios da Trybe
 
-repositóriode exercícios da trybe, escola de tecnologia.
-
-pratique bastante.
-
-teste
-
-more tests
+Repositóriode exercícios da trybe, escola de tecnologia.
